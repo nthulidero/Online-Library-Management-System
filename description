@@ -1,0 +1,20 @@
+# Online Library Management System
+
+## Description
+This project implements an Online Library Management System using Object-Oriented Programming (OOP) principles in C++.
+
+## Features
+- Add and remove books
+- Search books by ID
+- Borrow and return books
+- User management
+- Positive and negative test cases
+
+## OOP Concepts Used
+- Encapsulation
+- Classes and Objects
+- Modular Design
+
+## How to Run
+g++ main.cpp -o library
+./library
